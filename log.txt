@@ -6,4 +6,8 @@ Album Name: 808s & Heartbreak
 Song Name: Amazing
  Preview Link: https://api.spotify.com/v1/tracks/0m3Ze0cy8qBHSsV2exAfCw
 Album Name: 808s & Heartbreak
-[object Object][object Object][object Object][object Object]
+[object Object][object Object][object Object][object Object][object Object]Artist: Lil Wayne
+Song Name: Lollipop
+ Preview Link: https://api.spotify.com/v1/tracks/4P7VFiaZb3xrXoqGwZXC3J
+Album Name: Tha Carter III
+[object Object][object Object]
